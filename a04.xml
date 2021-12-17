@@ -1,0 +1,14 @@
+<answer question="4">
+   <property group="1"
+             id="H00141"
+             cost="142000"
+             downPayment="32660"
+             state="NY"
+             percentage="0.1">3266</property>
+   <property group="4"
+             id="H00144"
+             cost="140000"
+             downPayment="30800"
+             state="NY"
+             percentage="0.14">4312</property>
+</answer>

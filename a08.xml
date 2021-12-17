@@ -1,0 +1,8 @@
+<answer question="8">
+   <summary>
+      <sum state="NY">36356.700000000004</sum>
+      <sum state="NJ">72402.7</sum>
+      <sum state="CT">108860.99999999999</sum>
+      <sum state="triState">217620.39999999997</sum>
+   </summary>
+</answer>

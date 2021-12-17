@@ -1,0 +1,1 @@
+java  -classpath "./xquery.jar/:./saxon9he.jar:./saxon9-xqj.jar" edu.citytech.xml.course.JXQuery ./queries/f18-TaxBracketForG10.xqy a18.xml

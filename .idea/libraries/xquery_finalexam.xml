@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="xquery.finalexam">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/saxon9-xqj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xquery.jar!/" />
+      <root url="jar://$PROJECT_DIR$/saxon9he.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
